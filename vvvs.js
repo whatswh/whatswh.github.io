@@ -161,7 +161,7 @@ console.log(document.getElementsByClassName('app-wrapper-web')[0].getElementsByC
 				 domm.querySelectorAll('strong')[0].style.color = "#06A884";
 				 domm.querySelectorAll('strong')[1].style.color = "#06A884";
 				 domm.querySelectorAll('strong')[2].style.color = "#06A884";
-				document.querySelector(".landing-window").style.height = '100vh'
+				document.querySelector(".landing-window").style.height = '100vh';
 
 
 				if(!document.getElementById("imagesdfgg")){
